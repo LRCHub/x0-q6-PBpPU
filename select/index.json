@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "휘파람(Whistle)",
+  "base_artist": "BLACKPINK",
+  "createdAt": "2025-12-27T14:58:53.540191Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "휘파람 Whistle",
+      "artist": "MAP6",
+      "has_synced": false,
+      "path": "select/01_휘파람_Whistle_MAP6.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "휘파람 WHISTLE (Acoustic ver.)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/02_휘파람_WHISTLE_(Acoustic_ver.)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "휘파람 (Whistle) (Acoustic Ver.)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/03_휘파람_(Whistle)_(Acoustic_Ver.)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "휘파람 Whistle",
+      "artist": "Girl's Day",
+      "has_synced": true,
+      "path": "select/04_휘파람_Whistle_Girl's_Day.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "휘파람(Whistle) (Acoustic Version)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/05_휘파람(Whistle)_(Acoustic_Version)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "휘파람 (Whistle) [Live]",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/06_휘파람_(Whistle)_[Live]_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "휘파람 (Whistle) (Live)",
+      "artist": "Blackpink",
+      "has_synced": true,
+      "path": "select/07_휘파람_(Whistle)_(Live)_Blackpink.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "휘파람 Whistle (Live)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/08_휘파람_Whistle_(Live)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "휘파람 (Whistle)",
+      "artist": "블랙핑크 (BLΛƆKPIИK)",
+      "has_synced": true,
+      "path": "select/09_휘파람_(Whistle)_블랙핑크_(BLΛƆKPIИK).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WHISTLE",
+      "artist": "BLACKPINK",
+      "has_synced": false,
+      "path": "select/pl_01_WHISTLE_BLACKPINK.txt"
+    }
+  ]
+}
